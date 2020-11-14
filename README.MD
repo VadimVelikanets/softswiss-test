@@ -8,7 +8,7 @@ This project was implemented using technologies JQuery, Bootstrap, Sass, Gulp, B
 
 #### `cd softswiss-test`
 
-#### `npm start`
+#### `gulp start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
