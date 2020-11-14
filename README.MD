@@ -4,9 +4,9 @@ This project was implemented using technologies JQuery, Bootstrap, Sass, Gulp, B
 
 #### `git clone https://github.com/VadimVelikanets/softswiss-test.git`
 
-#### `npm install`
-
 #### `cd softswiss-test`
+
+#### `npm install`
 
 #### `gulp start`
 
