@@ -1,4 +1,4 @@
-#  SoftSwiss Network
+#  SoftSwiss Test Task
 
 This project was implemented using technologies JQuery, Bootstrap, Sass, Gulp, BEM.
 
